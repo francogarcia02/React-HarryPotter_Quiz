@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../../../public/assets/personajes/harry-potter.jpg",
+    "nombre": "Harry Potter"
+  },
+  {
+    "img": "../../../public/assets/personajes/ron-weasly.jpg",
+    "nombre": "Ron Weasly"
+  },
+  {
+    "img": "../../../public/assets/personajes/",
+    "nombre": ""
+  },
+  {
+    "img": "../../../public/assets/personajes/",
+    "nombre": ""
+  },
+  {
+    "img": "../../../public/assets/personajes/",
+    "nombre": ""
+  },
+  {
+    "img": "../../../public/assets/personajes/",
+    "nombre": ""
+  }
+]

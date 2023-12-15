@@ -1,9 +1,11 @@
 import './Beginning.css';
+import Introduction from './Bricks/Introduction/Introduction';
 
 const Beginning = () =>{
     return(
         <div className="Beginning">
-            <img src="../../../assets/logo/logo1.webp" alt="Logo"/>
+            <img className="Beg-img" src="../../../assets/logo/logo.png" alt="Logo"/>
+            <Introduction/>
         </div>
     )
 }

@@ -1,0 +1,6 @@
+.Int-grid{
+  display: grid;
+  justify-items: center;
+  grid-template-rows: repeat(auto);
+}
+
